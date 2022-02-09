@@ -11,3 +11,12 @@ In this project, you will query the Chinook Database. The Chinook Database holds
 [Chinook Database](https://github.com/lerocha/chinook-database)
 
 <img src="https://github.com/Ahmed-Ki/SQL-For-Data-Anaylsis/blob/0512c463787dee03dc57a8c7c105dec360689bea/chinookdb.png" width="950" height="800">
+
+## Instructions
+
+- Download [DB Browser for SQLite](https://sqlitebrowser.org/dl/).
+- Connect the DB Browser to Chinook Database.
+- Use at least 4 unique SQL queries to answer questions asked by the student and add them to a text file.
+- Create visualizations with the data acquired from each SQL query using any presentation software.
+- Add an explanation for each visualization.
+- Convert the presentation slides into a pdf and submit it with queries text file.
