@@ -10,4 +10,4 @@ In this project, you will query the Chinook Database. The Chinook Database holds
 
 [Chinook Database](https://github.com/lerocha/chinook-database)
 
-<img src="https://github.com/Ahmed-Ki/SQL-For-Data-Anaylsis/blob/0512c463787dee03dc57a8c7c105dec360689bea/chinookdb.png" width="950" height="500">
+<img src="https://github.com/Ahmed-Ki/SQL-For-Data-Anaylsis/blob/0512c463787dee03dc57a8c7c105dec360689bea/chinookdb.png" width="950" height="800">
